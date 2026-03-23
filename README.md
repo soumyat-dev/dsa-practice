@@ -1,2 +1,2 @@
 # dsa-practice
-My DSA solutions in Java — LeetCode problems with approach notes
+My DSA solutions in Python — LeetCode problems with approach notes
